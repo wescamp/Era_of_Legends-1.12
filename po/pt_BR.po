@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Legends-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:42+0100\n"
+"POT-Creation-Date: 2014-03-24 03:10+0100\n"
 "PO-Revision-Date: 2013-08-25 18:50-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,41 +12,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#. [era]: id=era_of_legends
-#: Era_of_Legends/era.cfg:5
+#. [era]: id=era_legends
+#: Era_of_Legends/era.cfg:24
 msgid "Era of Legends"
 msgstr ""
 
-#. [era]: id=era_of_legends
-#: Era_of_Legends/era.cfg:6
+#. [era]: id=era_legends
+#: Era_of_Legends/era.cfg:25
 msgid ""
 "Age of Heroes, one step higher. An era with higher level units: level four "
 "leaders, with level one, two, and three units available for recruit. "
-"Consists of seven factions: Loyalists, Rebels, Northerners, Undead, Knalgan "
-"Alliance, Drakes, & Khalifate. Not considered balanced. An options slider "
-"allows multiplying starting income by up to 5 to falcilitate recruting of "
-"the higher level units."
+"Consists of six factions. Not considered balanced."
 msgstr ""
 
-#. [era]: id=era_of_legends
-#: Era_of_Legends/era.cfg:8
+#. [era]: id=era_khalifate_legends
+#. [era]: id=era_legends
+#: Era_of_Legends/era.cfg:27 Era_of_Legends/era.cfg:38
 msgid "Version"
 msgstr ""
 
-#. [era]: id=era_of_legends
-#: Era_of_Legends/era.cfg:9
+#. [era]: id=era_khalifate_legends
+#. [era]: id=era_legends
+#: Era_of_Legends/era.cfg:28 Era_of_Legends/era.cfg:39
 msgid "Programming & Design by SigurdFireDragon."
 msgstr ""
 
-#. [slider]: id=era_of_legends.income_mulitplier
-#: Era_of_Legends/era.cfg:18
-msgid "Starting Income Multiplier"
+#. [era]: id=era_khalifate_legends
+#: Era_of_Legends/era.cfg:35
+msgid "Era of Legends + Khalifate"
 msgstr ""
 
-#. [slider]: id=era_of_legends.income_mulitplier
-#: Era_of_Legends/era.cfg:19
+#. [era]: id=era_khalifate_legends
+#: Era_of_Legends/era.cfg:36
 msgid ""
-"The starting income for each side will be multipied by the selected amount."
+"An era featuring an additional faction besides the six factions from Era of "
+"Legends. Khalifate units use no magic, but instead rely on careful use of "
+"terrain and coordinated strikes around dusk or dawn. Not considered balanced."
 msgstr ""
 
 #. [unit_type]: id=EoL Orcish High Warlord, race=orc
