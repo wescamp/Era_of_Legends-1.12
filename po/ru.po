@@ -1,47 +1,58 @@
+#
+# TreefeedXavier <treefeed@mail.ru>, 2014.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Legends-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-24 03:10+0100\n"
-"PO-Revision-Date: 2013-08-25 18:50-0400\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2014-03-22 22:37+0200\n"
+"Last-Translator: TreefeedXavier <treefeed@mail.ru>\n"
+"Language-Team: русский <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\n"
 
 #. [era]: id=era_legends
 #: Era_of_Legends/era.cfg:24
 msgid "Era of Legends"
-msgstr ""
+msgstr "Эра Легенд"
 
 #. [era]: id=era_legends
 #: Era_of_Legends/era.cfg:25
+#, fuzzy
 msgid ""
 "Age of Heroes, one step higher. An era with higher level units: level four "
 "leaders, with level one, two, and three units available for recruit. "
 "Consists of six factions. Not considered balanced."
 msgstr ""
+"Эпоха героев, но на одну ступень выше. Эра с бойцами более высокого уровня: "
+"лидеры четвёртого уровня, с доступными для найма бойцами уровней один, два и "
+"три. Содержит семь фракций: лояльные, повстанцы, северяне, нежить, Альянс "
+"Кналга, дрейков, и халифат. Не все сбалансированны. Ползунок настройки "
+"позволяет увеличивать стартовый доход до 5 раз, что способствует найму "
+"высокоуровневых бойцов."
 
 #. [era]: id=era_khalifate_legends
 #. [era]: id=era_legends
 #: Era_of_Legends/era.cfg:27 Era_of_Legends/era.cfg:38
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 #. [era]: id=era_khalifate_legends
 #. [era]: id=era_legends
 #: Era_of_Legends/era.cfg:28 Era_of_Legends/era.cfg:39
 msgid "Programming & Design by SigurdFireDragon."
-msgstr ""
+msgstr "Программирование и дизайн: SigurdFireDragon."
 
 #. [era]: id=era_khalifate_legends
 #: Era_of_Legends/era.cfg:35
+#, fuzzy
 msgid "Era of Legends + Khalifate"
-msgstr ""
+msgstr "Эра Легенд"
 
 #. [era]: id=era_khalifate_legends
 #: Era_of_Legends/era.cfg:36
@@ -54,7 +65,7 @@ msgstr ""
 #. [unit_type]: id=EoL Orcish High Warlord, race=orc
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:4
 msgid "Orcish High Warlord"
-msgstr ""
+msgstr "Верховный Лорд Орков"
 
 #. [unit_type]: id=EoL Orcish High Warlord, race=orc
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:25
@@ -63,13 +74,25 @@ msgid ""
 "orc is feared and respected by all other orcs, and his rule is never "
 "challenged."
 msgstr ""
+"Весьма редко, рождается орк легендарной силы и коварства. Этот орк держит в "
+"страхе и повиновении всех остальных орков, и его превосходство не "
+"обсуждается."
 
 #. [attack]: type=blade
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:43
 msgid "greatsword"
-msgstr ""
+msgstr "большой меч"
 
 #. [attack]: type=pierce
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:52
 msgid "bow"
-msgstr ""
+msgstr "лук"
+
+#~ msgid "Starting Income Multiplier"
+#~ msgstr "Начальный доход мультиплеера"
+
+#~ msgid ""
+#~ "The starting income for each side will be multipied by the selected "
+#~ "amount."
+#~ msgstr ""
+#~ "Начальный доход для каждой стороны будет умножен на выбранное значение."
